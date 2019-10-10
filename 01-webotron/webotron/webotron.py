@@ -68,7 +68,7 @@ def setup_bucket(bucket):
             'Key': 'error.html'
         },
         'IndexDocument': {
-            'Suffix': 'error.html'
+            'Suffix': 'index.html'
         }
       }
     )
